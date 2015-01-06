@@ -1,0 +1,12 @@
+[core]
+    excludesfile = ~/.global_gitignore
+[user]
+    name = Kyle Doherty
+    email = kyle.l.doherty@gmail.com
+[color]
+    ui = true
+[alias]
+    s = status
+    c = checkout
+    b = branch
+    l = log
